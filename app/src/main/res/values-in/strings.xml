@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MovieCatalogue4</string>
+    <string name="title_movies">Film</string>
+    <string name="title_tv_shows">Acara TV</string>
+    <string name="title_favorites">Favorit</string>
+
+    <string name="movie_poster">Movie_Poster</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="rating">Rating</string>
+    <string name="error_load">Terjadi masalah ketika mengambil data, mohon mencoba beberapa saat lagi</string>
+    <string name="no_indonesian_translate">Tidak ada terjemahan Indonesia</string>
+    <string name="show_poster">Show_Poster</string>
+
+    <string name="detail_background">detail_background</string>
+    <string name="detail_image">detail_image</string>
+    <string name="rated">Rated</string>
+    <string name="overview">Ringkasan</string>
+    <string name="first_air_date">Pertama diluncurkan</string>
+
+    <string name="error_add">Gagal menambah favorit, data sudah ada</string>
+    <string name="error_del">Gagal menghapus favorit</string>
+
+    <string name="favorite_movies">Film Favorit</string>
+    <string name="favorite_shows">Acara Favorit</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="search">Telusuri</string>
+    <string name="appwidget_text">FILM FAVORIT</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="no_data">TIDAK ADA DATA</string>
+    <string name="touched_view">View disentuh</string>
+    <string name="daily_time">07:00</string>
+    <string name="notification_message_daily">The Movie Catalogue merindukanmu! Coba aplikasi lagi</string>
+    <string name="stackview_image">gambar_stackview</string>
+    <string name="release_time">08:00</string>
+    <string name="empty_page">empty_page</string>
+    <string name="empty_favorite_page_message">Kamu belum mempunyai film favorit! Tambahkan film favoritmu disini</string>
+    <string name="empty_logo">empty_logo</string>
+    <string name="reminder_setting">Pengaturan Notifikasi</string>
+    <string name="release_reminder">Notifikasi Rilis Film</string>
+    <string name="setting_release_text">Notifikasi untuk memberi tahu film yang rilis pada hari ini</string>
+    <string name="daily_reminder">Notifikasi harian</string>
+    <string name="setting_daily_text">Notifikasi untuk mengingatkan kembali pada aplikasi ini</string>
+    <string name="empty_favorite_text_show_message">Kamu belum mempunyai acara tv favorit! Tambahkan acara favoritmu disini</string>
+    <string name="no_movie">Tidak ada film yang rilis</string>
+    <string name="package_name">com.example.moviecatalogue4</string>
+    <string name="shared_key_daily">daily_reminder</string>
+    <string name="shared_key_release">release_reminder</string>
+
+
+</resources>

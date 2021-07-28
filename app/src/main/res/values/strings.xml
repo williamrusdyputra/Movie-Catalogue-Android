@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MovieCatalogue4</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_tv_shows">TV Shows</string>
+    <string name="title_favorites">Favorites</string>
+
+    <string name="movie_poster">Movie_Poster</string>
+    <string name="release_date">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="error_load">There is a problem fetching the data, please try again later</string>
+    <string name="no_indonesian_translate">No Indonesian translate available</string>
+    <string name="show_poster">Show_Poster</string>
+
+    <string name="detail_background">detail_background</string>
+    <string name="detail_image">detail_image</string>
+    <string name="rated">Rated</string>
+    <string name="overview">Overview</string>
+    <string name="first_air_date">First Air Date</string>
+
+    <string name="error_add">Failed to add favorite, Data already exists</string>
+    <string name="error_del">Failed to delete favorite</string>
+
+    <string name="favorite_movies">Favorite Movies</string>
+    <string name="favorite_shows">Favorite Shows</string>
+    <string name="change_language">Change Language</string>
+    <string name="search">Search</string>
+    <string name="appwidget_text">FAVORITE MOVIE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_data">NO DATA</string>
+    <string name="touched_view">Touched View</string>
+    <string name="daily_time">07:00</string>
+    <string name="notification_message_daily">The Movie Catalogue missing you! Please come back</string>
+    <string name="stackview_image">stackview_image</string>
+    <string name="release_time">08:00</string>
+    <string name="empty_page">empty_page</string>
+    <string name="empty_favorite_page_message">You don\'t have favorite movie. Add your favorite movie here so you can see them!</string>
+    <string name="empty_logo">empty_logo</string>
+    <string name="reminder_setting">Reminder Setting</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="setting_release_text">Reminder showing the movie that released today</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="setting_daily_text">Reminder to return to the app</string>
+    <string name="empty_favorite_text_show_message">You don\'t have favorite show. Add your favorite show here!</string>
+    <string name="no_movie">No Movie released today</string>
+    <string name="package_name">com.example.moviecatalogue4</string>
+    <string name="shared_key_daily">daily_reminder</string>
+    <string name="shared_key_release">release_reminder</string>
+
+</resources>
