@@ -87,7 +87,7 @@ Follow the steps to reproduce the app in your environment.
 1. Get a free API Key at [https://developers.themoviedb.org/](https://developers.themoviedb.org/3)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/williamrusdyputra/Movie-Catalogue-Android.git
    ```
 3. Install necessary packages (auto build in android studio)
 4. Install the app in your Android Phone
